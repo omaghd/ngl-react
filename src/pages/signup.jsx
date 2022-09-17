@@ -1,5 +1,5 @@
-import Button from "../components/Auth/Button";
-import InputField from "../components/Auth/InputField";
+import Button from "../components/Guest/Button";
+import InputField from "../components/Guest/InputField";
 
 const Signup = () => {
   return (

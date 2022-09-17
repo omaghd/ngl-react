@@ -3,8 +3,8 @@ import Tab from "./Tab";
 const NavigationTabs = () => {
   return (
     <div className="text-center mb-16">
-      <Tab title="Share" url="/" />
-      <Tab title="Messages" url="/messages" />
+      <Tab title="Login" url="/login" />
+      <Tab title="Register" url="/register" />
     </div>
   );
 };
